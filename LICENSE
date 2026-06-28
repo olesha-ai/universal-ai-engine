@@ -4,11 +4,18 @@ Copyright (c) 2026 olesha-ai. All rights reserved.
 
 DEVELOPER PROFILE: https://github.com
 
-TERMS OF USE:
-1. This software, including the executable (Apple_Inspector.exe), runtime libraries, and associated model weights, is distributed strictly as a Compiled Evaluation Demo for technical benchmarking purposes.
+PROPRIETARY EVALUATION LICENSE & TERMS OF USE:
 
-2. COMMERCIAL USE IS STRICTLY PROHIBITED. Any deployment, testing, or integration into active manufacturing production lines, conveyor systems, or assembly automation environments without an explicit, 
-prior written Commercial License Agreement signed by the author is a direct violation of international copyright laws.
+1. LICENSE GRANT & PURPOSES
+This software framework, including the executable binary (Apple_Inspector.exe), dynamic link runtime libraries (onnxruntime.dll, minicv.dll), and any bundled model configurations, is distributed strictly as a Compiled Technical Evaluation Demo. Permitted use is limited exclusively to private benchmarking, non-production performance testing, and technical evaluation.
 
-3. LIMITATION OF LIABILITY: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, 
-DAMAGES, PRODUCTION DOWNTIME, LOSS OF REVENUE, OR OTHER LIABILITY ARISING FROM THE RUNNING, TESTING, OR DECOMPILATION OF THIS RUNTIME FRAMEWORK.
+2. COMMERCIAL & PRODUCTION DEPLOYMENT PROHIBITION
+Commercial use and factory deployment are strictly prohibited. Any integration, testing, or operation of this software within active manufacturing production lines, industrial assembly loops, conveyor automated systems, or any connection to industrial automation hardware (including but not limited to PLCs, Modbus/TCP relays, pneumatic sorting actuators, or factory gates) without an explicit, prior written Commercial License Agreement signed by the copyright holder is a direct violation of international copyright and intellectual property laws.
+
+3. SANDBOXING & SECURITY ENVIRONMENT
+This evaluation runtime is designed to operate strictly on-premise in an air-gapped environment. It contains no telemetry, no remote network sockets, and does not collect or transmit any industrial data, streams, or logs outside the local host machine.
+
+4. LIMITATION OF LIABILITY & INDUSTRIAL DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE, TESTING, RUNNING, OR DECOMPILATION OF THIS RUNTIME FRAMEWORK. 
+
+THE AUTHOR EXPLICITLY DISCLAIMS ALL LIABILITY FOR INDUSTRIAL ACCIDENTS, FACTORY MACHINERY DAMAGE, CONVEYOR SYSTEM DOWNTIME, LOSS OF REVENUE, PRODUCT RECALLS, OR PERSONAL INJURY CAUSED BY SOFTWARE MALFUNCTION, FALSE POSITIVES, OR BRAKEDOWN DETECTING ACCURACY ISSUES. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH THE END USER.
