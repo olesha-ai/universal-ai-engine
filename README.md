@@ -179,8 +179,7 @@ and the mechanical integrity of structural brackets, anchors, or mounting tabs.T
 or initiate custom dataset model development, please contact the author directly:
 
 
-
-GitHub Developer Profile: @olesha-ai
+📧 **Business Inquiries:** Contact via [GitHub Developer Profile](https://github.com) or open a technical [Inquiry Issue](https://github.com/universal-ai-engine/issues).
 
 
 
